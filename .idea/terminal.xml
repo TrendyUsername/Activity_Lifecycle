@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="Path" value="C:\Program Files\nodejs\;C:\Python38\Scripts\;C:\Python38\;C:\Users\megag\AppData\Local\Android\Sdk;C:\Program Files\AdoptOpenJDK\jdk-11.0.6.10-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Flutter\flutter\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\PuTTY\;C:\Users\megag\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\WebStorm 2019.3.3\bin;;C:\Users\megag\AppData\Roaming\npm;C:\Program Files\Git\cmd" />
+    </envs>
+  </component>
+</project>
